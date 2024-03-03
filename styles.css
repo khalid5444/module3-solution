@@ -23,7 +23,7 @@ body{
 }
 .sections{
     background-color: gray;
-    padding: 10px;
+    padding: 40px;
     border-radius: 20px;
     margin: 20px;
     font-size: large;
@@ -31,6 +31,7 @@ body{
 }
 h2{
     text-align: center;
+    margin-top: -20px;
 }
 
 .title{
